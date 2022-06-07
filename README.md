@@ -4,7 +4,7 @@ Hola, soy Nayade
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGwyndolin&theme=tokyonight&layout=extend)](https://github.com/NGwyndolin)
 
 Mi formación previa al grado de programación está relacionada con las finanzas y la contabilidad, ya que anteriormente hice un grado medio de ello lo cual me ayudó a desarrollar mis capacidades matemáticas. Posteriormente hice el grado superior de animación 3D, juegos y entornos interactivos. Actualmente estoy estudiando japonés por mi cuenta y preparándome por libre las pruebas de inglés ya que tengo un domino medio tanto en la comprensión como en la utilización de la lengua.
-Soy estudiante de programación y tengo conocimientos en CSS, HTML Y MySQL.
+Soy estudiante de programación y tengo conocimientos en Java, CSS, HTML Y MySQL.
 
 ## Habilidades:
 [![Java](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
